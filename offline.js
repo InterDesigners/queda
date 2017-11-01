@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1509494225,
+	"version": 1509574518,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,8 +23,6 @@
 		"images/effect_gem-sheet1.png",
 		"images/effect_gem-sheet2.png",
 		"images/tiledbackground.png",
-		"images/tiledbackground2.png",
-		"images/tiledbackground3.png",
 		"images/9patch.png",
 		"images/pedra-sheet0.png",
 		"images/tiledbackground4.png",
@@ -34,6 +32,11 @@
 		"images/explosion2-sheet0.png",
 		"images/explosion2-sheet1.png",
 		"images/tiledbackground5.png",
+		"images/green_personal_shield-sheet0.png",
+		"images/bg-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/particles.png",
+		"images/sprite-sheet0.png",
 		"media/gema01.m4a",
 		"media/gema01.ogg",
 		"media/boost01.m4a",
